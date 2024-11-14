@@ -15,7 +15,7 @@
 	branch = master
 [submodule "newlib"]
 	path = newlib
-	url = https://sourceware.org/git/newlib-cygwin.git
+	url = https://github.com/mirror/newlib-cygwin.git
 	branch = master
 [submodule "gdb"]
 	path = gdb
